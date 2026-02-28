@@ -1,0 +1,5 @@
+{
+  "name": "CineMatch",
+  "description": "A minimal yet powerful movie recommendation engine powered by AI. Discover, rate, and track your favorite films.",
+  "requestFramePermissions": []
+}
